@@ -1,4 +1,4 @@
-# NYCU Computer Vision 2025 Spring
+# NYCU Computer Vision 2025 Spring Lab 1
 - StudentID: 313554002
 - Name: 陳子揚
 
