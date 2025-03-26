@@ -1,3 +1,7 @@
+# NYCU Computer Vision 2025 Spring
+- StudentID: 313554002
+- Name: 陳子揚
+
 # Setup and run
 1. Clone this folder and set the path into it.
 2. Put data into the folder.
