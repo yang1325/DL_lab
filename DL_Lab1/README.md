@@ -7,7 +7,8 @@
 2. Put data into the folder.
 ```
  DL_Lab1 (You should be here)
-   ├── (add data here)
+   ├── data (add data here)
+   |  └── nothing.txt
    ├── dataset.py
    ├── enviroment.yaml
    └── hw1.ipynb
