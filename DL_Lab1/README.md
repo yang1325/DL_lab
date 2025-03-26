@@ -8,6 +8,9 @@
 ```
  DL_Lab1 (You should be here)
    ├── data (add data here)
+   |  ├── test
+   |  ├── train
+   |  ├── val
    |  └── nothing.txt
    ├── dataset.py
    ├── enviroment.yaml
