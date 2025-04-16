@@ -12,6 +12,11 @@
    |  ├── train
    |  ├── val
    |  └── nothing.txt
+   ├── detection
+   |  ├── coco_eval.py
+    ...
+   |  ├── transforms.py
+   |  └── utils.py
    ├── dataset.py
    ├── enviroment.yaml
    ├── hw2.ipynb
