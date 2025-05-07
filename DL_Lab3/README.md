@@ -8,9 +8,8 @@
 ```
  DL_Lab2 (You should be here)
    ├── data (add data here)
-   |  ├── test
+   |  ├── test_realease
    |  ├── train
-   |  ├── val
    |  └── test_image_name_to_ids.json
    ├── detection
    |  ├── coco_eval.py
