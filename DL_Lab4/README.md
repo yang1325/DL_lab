@@ -11,7 +11,7 @@
    ├── ckpt
    ├── data
    |  ├── hw4_realse_dataset (add data at here)
-   |  └── nothing.txt
+   |  └── nothing.txt.txt
    ├── data_dir
    ├── net
    ├── output
@@ -26,8 +26,9 @@
 ```
 conda env create -f env.yml
 ```
-5. Open "hw2.ipynb" in vscode
-6. Change the respective file path.
-7. Run first 4 cell with environment in "my_DL_Lab3".
-8. Change the file name of pth name(model auto saved in "output/trial_(num)").
-9. Run the remainder cell.
+5. Run the following  command at anaconda prompt
+```
+conda activate promptir
+python train.py
+python infer.py #(change the model path by argument --model if you want)
+```
