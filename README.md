@@ -29,6 +29,6 @@ conda env create -f env.yml
 5. Run the following  command at anaconda prompt
 ```
 conda activate promptir
-python train.py
+python mytrain.py
 python infer.py #(change the model path by argument --model if you want)
 ```
