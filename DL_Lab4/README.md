@@ -19,7 +19,7 @@
    ├── INSTALL.md
    ├── LICENSE.md
    ├── ...
-   └── RLE.py
+   └── train.py
 ```
 3. Open anaconda prompt at that path. 
 4. Enter the following command at anaconda prompt
