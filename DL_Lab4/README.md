@@ -7,20 +7,18 @@
 2. Put data into the folder.
 ```
  DL_Lab4 (You should be here)
-   ├── data (add data here)
-   |  ├── test_realease
-   |  ├── train
-   |  └── test_image_name_to_ids.json
-   ├── detection
-   |  ├── coco_eval.py
-    ...
-   |  ├── transforms.py
-   |  └── utils.py
-   ├── dataset.py
-   ├── enviroment.yaml
-   ├── hw3.ipynb
-   ├── infrence.py
-   ├── model.py
+   ├── __pychache__
+   ├── ckpt
+   ├── data
+   |  ├── hw4_realse_dataset (add data at here)
+   |  └── nothing.txt
+   ├── data_dir
+   ├── net
+   ├── output
+   ├── utils
+   ├── INSTALL.md
+   ├── LICENSE.md
+   ├── ...
    └── RLE.py
 ```
 3. Open anaconda prompt at that path. 
